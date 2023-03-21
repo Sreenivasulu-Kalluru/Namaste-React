@@ -1,6 +1,6 @@
 ## Namaste React Course by Akshay Saini
 
-# _Chapter 01 - Inception_
+# _Episode 01 - Inception_
 
 ## Theory :
 
