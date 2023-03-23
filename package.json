@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react---akshay-saini",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreenivasulu-Kalluru/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "Sreenivasulu Kalluru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreenivasulu-Kalluru/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Sreenivasulu-Kalluru/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}

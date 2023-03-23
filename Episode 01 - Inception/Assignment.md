@@ -10,7 +10,6 @@
 - What is `crossorigin in script tag`?
 - What is difference between `React and ReactDOM`?
 - What is difference between `react.development.js` and `react.production.js` files via CDN?
-- Difference between a `Library and Framework`?
 
 ## Coding :
 
@@ -29,3 +28,8 @@
     - Use `root.render`
 - `Push code to Github` (Theory as well as code)
 - Learn about `Arrow Functions` before the next class
+
+## References:
+
+- https://beta.reactjs.org/apis/react/createElement
+- https://www.youtube.com/watch?v=IrHmpdORLu8

@@ -17,4 +17,3 @@
     - `Create an Element`
     - `Create nested React Elements`
     - `Use root.render`
-- `Push code to Github` (Theory as well as code)
