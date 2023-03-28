@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #333;
+  width: auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+}
+
+img {
+  width: 60px;
+  height: 60px;
+}
+
+input {
+  padding: 10px 15px;
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+}
+
+input:focus {
+  border: 0;
+  outline: 0;
+}
