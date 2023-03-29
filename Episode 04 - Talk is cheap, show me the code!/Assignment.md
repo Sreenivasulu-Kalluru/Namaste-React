@@ -2,7 +2,7 @@
 
 # Episode 04 - Talk is Cheap, show me the code
 
-## Theory Assignment:
+## Theory:
 
 - Is `JSX` mandatory for React?
 - Is `ES6` mandatory for React?
@@ -16,7 +16,7 @@
 - What is `props in React`? Ways to.
 - What is `Config Driven UI`?
 
-## Coding Assignment:
+## Coding:
 
 - Build a `Food Ordering App`
   - Think of a `cool name` for your app
