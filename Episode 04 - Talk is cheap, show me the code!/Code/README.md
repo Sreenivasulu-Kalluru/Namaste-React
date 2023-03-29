@@ -17,4 +17,4 @@
       - `Render` your cards with dynamic data of restaurants
       - Use `Array.map` to render all the restaurants
 
-## [Food App Basic Layout](https://food-app-basic-layout.netlify.app/)
+## [😋 Food App Basic Layout 😍](https://food-app-basic-layout.netlify.app/)
