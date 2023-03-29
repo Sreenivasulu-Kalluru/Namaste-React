@@ -1,6 +1,6 @@
 # ❤️ Namaste React 🙏
 
-### [Namaste React Web Series Course](https://learn.namastedev.com/courses/namaste-react-live) from Zero to Hero 🚀 by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)(Founder of NamasteDev). This repository contains Assignmenst & Class Notes taken during this course.
+### [Namaste React Course](https://courses.namastedev.com/learn/Namaste-React) from Zero to Hero 🚀 by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)(Founder of NamasteDev). This repository contains Assignmenst & Class Notes taken during this course.
 
 ## 📚 [_Episode 01 - Inception_](./Episode%2001%20-%20Inception/)
 
