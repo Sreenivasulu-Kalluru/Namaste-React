@@ -1,6 +1,6 @@
 ## Namaste React Course by Akshay Saini
 
-# Episode 04 - Talk is Cheap, show me the code
+# Episode 04 - Talk is Cheap, show me the code!
 
 ## Coding Assignment:
 
@@ -17,4 +17,4 @@
       - `Render` your cards with dynamic data of restaurants
       - Use `Array.map` to render all the restaurants
 
-## [Food App Basic Layout](https://food-app-basic-layout.netlify.app/)
+## [😋 Food App Basic Layout 😍](https://food-app-basic-layout.netlify.app/)
