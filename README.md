@@ -9,3 +9,5 @@
 ## 📚 [_Episode 03 - Laying the Foundation_](./Episode%2003%20-%20Laying%20the%20Foundation/)
 
 ## 📚 [_Episode 04 - Talk is cheap, show me the code!_](./Episode%2004%20-%20Talk%20is%20cheap%2C%20show%20me%20the%20code!/)
+
+## 📚 [_Episode 05 - let's get Hooked!_](./Episode%2005%20-%20Let's%20get%20Hooked/)
