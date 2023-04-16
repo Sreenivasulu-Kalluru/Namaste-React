@@ -29,7 +29,7 @@
       - Make your `card dynamic`(pass in props)
         - `Props` - passing arguments to a function - `Use Destructuring` & `Spread operator`
       - `Render` your cards with `dynamic data of restaurants`
-      - Use `Array.map` to render all the restaurants
+      - Use `Array.map` to render all the restaurants in the body component
 
 ### PS. Basically do everything that I did in the class, in the `same sequence`. `Don't skip small things`.
 
