@@ -13,3 +13,5 @@
 ## 📚 [_Episode 05 - Let's get Hooked!_](./Episode%2005%20-%20Let's%20get%20Hooked/)
 
 ## 📚 [_Episode 06 - Exploring The World_](./Episode%2006%20-%20Exploring%20The%20World/)
+
+## 📚 [_Episode 07 - Finding the Path_](./Episode%2007%20-%20Finding%20the%20Path/)
