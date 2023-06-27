@@ -4,7 +4,7 @@
 
 ## Theory
 
-### Explained about
+### Topics Taught
 
 - Custom Hooks
 - Modularity in Code
