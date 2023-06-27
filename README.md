@@ -14,4 +14,6 @@
 
 ## 📚 [_Episode 06 - Exploring The World_](./Episode%2006%20-%20Exploring%20The%20World/)
 
-## 📚 [_Episode 07 - Finding the Path_](./Episode%2007%20-%20Finding%20the%20Path/)
+## 📚 [_Episode 08 - Let's get Classy_](./Episode%2008%20-%20Let's%20Get%20Classy/)
+
+## 📚 [_Episode 09 - Optimizing Our App_](./Episode%2009%20-%20Optimising%20Our%20App/)

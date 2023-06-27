@@ -1,6 +1,6 @@
 ## Namaste React Course by Akshay Saini
 
-# Episode 09 - Optimizing our App
+# Episode 09 - Optimizing Our App
 
 ## Theory
 
