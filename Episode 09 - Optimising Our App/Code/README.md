@@ -8,4 +8,4 @@
 - Try out `lazy and suspense`
 - Make your `code clean`.
 
-[Food App Optimizations](https://food-app-optimizations.netlify.app/)
+## [Food App Optimizations](https://food-app-optimizations.netlify.app/)
